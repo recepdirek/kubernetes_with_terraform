@@ -1,5 +1,5 @@
-aws_access_key = "AKIAYQ2RYDDHGOHZONPX"
-aws_secret_key = "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"
+aws_access_key = "xxxxx"
+aws_secret_key = "yyyyy"
 
 region                   = "eu-west-2"
 availability_zones_count = 2
